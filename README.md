@@ -12,7 +12,7 @@
         <td>pandas, numpy, phik, scipy, seaborn, matplotlib, plotly.express</td>
     </tr>
      <tr>
-        <td><a href="https://github.com/username/project2">Проект 2</a></td>
+        <td><a href="https://github.com/username/project2"](https://github.com/Suvoriha/project/tree/099082aa69f0ed0273803a38b3b3958761c75f63/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%BF%D0%BE%20%D0%90_%D0%92%20%D1%82%D0%B5%D1%81%D1%82%D1%83)>Проект 2</a></td>
         <td>Краткое описание проекта 2.</td>
         <td>Стек технологий для проекта 2.</td>
     </tr>
