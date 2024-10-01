@@ -11,4 +11,14 @@
         <td>Анализ причины повышенного оттока клиентов банка. Разделение на сегменты пользователей, по которым отдел маркетинга сможет классифицировать клиентов.</td>
         <td>pandas, numpy, phik, scipy, seaborn, matplotlib, plotly.express</td>
     </tr>
+     <tr>
+        <td><a href="https://github.com/username/project2">Проект 2</a></td>
+        <td>Краткое описание проекта 2.</td>
+        <td>Стек технологий для проекта 2.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/username/project3">Проект 3</a></td>
+        <td>Краткое описание проекта 3.</td>
+        <td>Стек технологий для проекта 3.</td>
+    </tr>
 </table>
