@@ -21,4 +21,9 @@
         <td>Изучение воронки продаж мобильного приложения продуктов питания. Проведение А/А/В теста..</td>
         <td>pandas, numpy, scipy, math, seaborn, matplotlib, plotly.express.</td>
     </tr>
+     <tr>
+        <td><a href="https://github.com/Suvoriha/project/tree/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20SQL">Проект по SQL (PostgreSQL)</a></td>
+        <td>Компания купила крупный сервис для чтения книг по подписке. Необходимо проанализировать базу данных сервиса. Чтобы в дальнейшем сформулировать предложение для нового продукта.</td>
+        <td>pandas, sqlalchemy</td>
+    </tr>
 </table>
